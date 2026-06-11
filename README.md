@@ -2,7 +2,7 @@
 
 A lightweight STM32 HAL driver for the **LIS302DL** 3-axis digital accelerometer using **4-wire SPI**.
 
-The driver supports device initialization, register read/write access, raw acceleration reading, conversion to `g`, data-ready checking, overrun checking, and basic runtime configuration.
+The driver supports device initialization, register read/write access, raw acceleration reading, conversion to `g`, data-ready checking, overrun checking, and basic runtime configuration. You can access the datasheet from [here](https://www.st.com/resource/en/application_note/an2335-lis302dl-3axis--2g8g-digital-output-ultracompact-linear-accelerometer-stmicroelectronics.pdf).
 
 ## Features
 
